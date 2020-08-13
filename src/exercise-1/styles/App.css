@@ -1,0 +1,37 @@
+.header{
+    vertical-align: middle;
+    background-color: gray;
+    float: right;
+    width: 100%;
+    height: 80px;
+    
+}
+
+.header ul {
+    list-style:none;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.header li{
+    text-decoration: none;
+    float: right;
+    padding-right:80px;
+}
+
+.aboutUs{
+    line-height: 20px;
+
+}
+
+.home{
+    line-height: 20px;
+}
+
+.mypro{
+    line-height: 20px;
+}
+
+.allproducts{
+    line-height: 20px;
+}

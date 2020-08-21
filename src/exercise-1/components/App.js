@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import '../styles/App.css';
-import {BrowserRouter as Route, BrowserRouter, Switch, NavLink, Redirect} from 'react-router-dom';
+import {Route, BrowserRouter, Switch, NavLink, Redirect} from 'react-router-dom';
 import AboutUs from './AboutUs';
 import Home from './Home';
 import MyProfile from './MyProfile';
